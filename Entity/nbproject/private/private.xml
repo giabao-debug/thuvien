@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/ViewDetaiBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/entity/Book.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/GreaterFeeBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/SearchItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/ListAllBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/CountItemController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/AddItemController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/entity/Magazine.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dem/Statistic.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dto/LibraryItemDTO.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/entity/Entity.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/LibraryFeeController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/entity/LibraryItem.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/RemoveItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/GreaterFeeController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/CountItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/ResultBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/AddItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/ViewDetaiController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/ItemListBoudary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/entity/DVD.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dao/LibraryItemDAO.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/main/MainMenu.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/UpdateItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/UpdateItemController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/LibraryPrintController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/ListAllController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/main/Main.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/main/fakedb.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/RemoveItemController.java</file>
+        </group>
+    </open-files>
+</project-private>
