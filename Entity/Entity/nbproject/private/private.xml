@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/CountItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/db/fakedb.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/ResultBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/GreaterFeeBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/AddItemBoundary.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/CountItemController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/db/FileDatabase.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/SearchItemController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/AddItemController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dao/LibraryItemDAO.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dem/Statistic.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/db/MemoryDatabase.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/main/MainMenu.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dao/MemoryLibraryItemDAO.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/ListAllController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/main/Main.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/dao/FileLibraryItemDAO.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/exception/ItemRemovalFailedException.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/entity/LibraryItem.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/control/GreaterFeeController.java</file>
+            <file>file:/D:/Net/OOP_01/Entity/src/boundary/RemoveItemBoundary.java</file>
+        </group>
+    </open-files>
+</project-private>
